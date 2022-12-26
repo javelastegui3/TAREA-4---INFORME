@@ -26,7 +26,7 @@ SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 Visualice y trace las siguientes combinaciones en serie-paralelo:
 (a) R1 en serie con la combinación en paralelo de R2 y R3
 
-https://user-images.githubusercontent.com/94129932/146842317-8b70c8d2-d2b5-467d-b813-88ca2fa64882.png
+[![imagen-2022-12-25-193107393.png](https://i.postimg.cc/NGDRBgGy/imagen-2022-12-25-193107393.png)](https://postimg.cc/8sF7bg6D)
 
 (b) R1 en paralelo con la combinación en serie de R2 y R3
 
