@@ -9,8 +9,7 @@
 <br /><br />
 2. Marco teórico (Resumen)<br /><br />
 [![imagen-2022-12-25-233138054.png](https://i.postimg.cc/xjk2LVtX/imagen-2022-12-25-233138054.png)](https://postimg.cc/ThXFXF8x)
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/Cap%208.png)<br /><br />
-
+[![image.png](https://i.postimg.cc/4xv7Z9cR/image.png)](https://postimg.cc/3kRJFW9t)
 
 3.RESOLUCIÓN DE EJERCICIOS
 
