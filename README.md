@@ -8,7 +8,7 @@
 •	Aprender sobre la aplicación de la fuente de voltaje y corriente, también como realizar las conversiones entre fuentes; como aplicar los teoremas ayudándonos de las leyes ya aprendidas como: ley de Ohm, LCK, LVK y como realizar las trasformaciones de los circuitos.
 <br /><br />
 2. Marco teórico (Resumen)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/Cap%207.png)<br /><br />
+[![imagen-2022-12-25-233138054.png](https://i.postimg.cc/xjk2LVtX/imagen-2022-12-25-233138054.png)](https://postimg.cc/ThXFXF8x)
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-4/blob/main/Cap%208.png)<br /><br />
 
 
